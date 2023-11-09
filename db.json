@@ -197,7 +197,30 @@
       "material_type": "Leather",
       "size": "36mm",
       "image_url": "https://www.audemarspiguet.com/content/dam/ap/com/products/watches/MTR010187AA/importer/standup.png.transform.approductmain.png"
+    },
+    {
+      "id": 19,
+      "brand_id": 4,
+      "name": "Audemars Piguet Millenary",
+      "price_range": "$400000",
+      "ratings": 4.5,
+      "category_id": 5,
+      "material_type": "Leather",
+      "size": "24mm",
+      "image_url": "https://cdn2.chrono24.com/images/uhren/28601494-tx2q2lh5xlphbhx9wlt9d4ha-ExtraLarge.jpg"
+    },
+    {
+      "id": 20,
+      "brand_id": 4,
+      "name": "Audemars Piguet Royal Oak Selfwinding",
+      "price_range": "$40000",
+      "ratings": 4.5,
+      "category_id": 2,
+      "material_type": "Stainless Steel",
+      "size": "32mm",
+      "image_url": "https://www.audemarspiguet.com/content/dam/ap/com/products/watches/MTR010313AA/importer/standup.png.transform.approductmain.png"
     }
+    
   ],
   "brands": [
     {

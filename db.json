@@ -39,7 +39,7 @@
       "name": "Rolex Oyster Perpetual",
       "price_range": "$6000",
       "ratings": 4.5,
-      "category_id": 5,
+      "category_id": 2,
       "material_type": "Stainless Steel",
       "size": "28mm",
       "image_url": "https://shorturl.at/hvzW9"
@@ -50,7 +50,7 @@
       "name": "Rolex GMT-Master",
       "price_range": "$15000",
       "ratings": 4.5,
-      "category_id": 5,
+      "category_id": 3,
       "material_type": "Rubber",
       "size": "28mm",
       "image_url": "https://cdn2.chrono24.com/images/uhren/27277018-gygcifkkn54k45a1l4bux1ko-ExtraLarge.jpg"
@@ -94,7 +94,7 @@
       "name": "Omega De Ville",
       "price_range": "$5000",
       "ratings": 4.5,
-      "category_id": 5,
+      "category_id": 3,
       "size": "34mm",
       "material_type": "Leather",
       "image_url": "https://www.omegawatches.com/media/catalog/product/cache/e7984e6883c65585a016084208a7f1f23dbda14c55ba5f81dd86443eff42d1f8/o/m/omega-de-ville-prestige-co-axial-chronometer-395_mm-42453402004005-list-917be8.jpg"
@@ -105,7 +105,7 @@
       "name": "Omega Aqua Terra",
       "price_range": "$4000",
       "ratings": 4.5,
-      "category_id": 5,
+      "category_id": 4,
       "material_type": "Rubber",
       "size": "36mm",
       "image_url": "https://www.omegawatches.com/media/catalog/category/SPE-OlympicCollection-Tokyo2020-imgSearch.jpg"
@@ -138,7 +138,7 @@
       "name": "Patek Philippe Aquanaut",
       "price_range": "$150000",
       "ratings": 4.5,
-      "category_id": 5,
+      "category_id": 2,
       "material_type": "Rubber",
       "size": "38mm",
       "image_url": "https://static.patek.com/images/articles/face_white/330/5168G_001.jpg"
@@ -149,7 +149,7 @@
       "name": "Patek Philippe Complications",
       "price_range": "$250000",
       "ratings": 4.5,
-      "category_id": 5,
+      "category_id": 3,
       "material_type": "Leather",
       "size": "28mm",
       "image_url": "https://static.patek.com/images/articles/face_white/180/5327G_001_1.jpg"
@@ -160,7 +160,7 @@
       "name": "Patek Philippe Twenty-4",
       "price_range": "$7000",
       "ratings": 4.5,
-      "category_id": 5,
+      "category_id": 3,
       "material_type": "Stainless Steel",
       "size": "34mm",
       "image_url": "https://static.patek.com/images/articles/face_white/330/7300_1200A_011_1.jpg"
@@ -193,7 +193,7 @@
       "name": "Audemars Piguet Royal Oak Concept",
       "price_range": "$150000",
       "ratings": 4.5,
-      "category_id": 5,
+      "category_id": 4,
       "material_type": "Leather",
       "size": "36mm",
       "image_url": "https://www.audemarspiguet.com/content/dam/ap/com/products/watches/MTR010187AA/importer/standup.png.transform.approductmain.png"
@@ -204,7 +204,7 @@
       "name": "Audemars Piguet Millenary",
       "price_range": "$400000",
       "ratings": 4.5,
-      "category_id": 5,
+      "category_id": 4,
       "material_type": "Leather",
       "size": "24mm",
       "image_url": "https://cdn2.chrono24.com/images/uhren/28601494-tx2q2lh5xlphbhx9wlt9d4ha-ExtraLarge.jpg"
@@ -256,16 +256,9 @@
     {
       "id": 4,
       "name": "Luxury Sports Watch"
-    },
-    {
-      "id": 5,
-      "name": "Luxury Other Watch"
     }
   ],
   "order": [
-    {
-      "id": 100,
-      "name": "rolex"
-    }
+    
   ]
 }

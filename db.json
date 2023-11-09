@@ -221,61 +221,6 @@
       "image_url": "https://www.audemarspiguet.com/content/dam/ap/com/products/watches/MTR010313AA/importer/standup.png.transform.approductmain.png"
     },
     {
-      "id": 21,
-      "brand_id": 5,
-      "name": "TAG Heuer Carrera",
-      "price_range": "$90000",
-      "ratings": 4.5,
-      "category_id": 4,
-      "material_type": "Leather",
-      "size": "36mm",
-      "image_url": "https://www.tagheuer.com/on/demandware.static/-/Sites-tagheuer-master/default/dw93a951b4/TAG_Heuer_Carrera/CBS2210.FC6534/CBS2210.FC6534_0913.png?impolicy=cropresize&width=480&height=480"
-    },
-    {
-      "id": 22,
-      "brand_id": 5,
-      "name": "TAG Heuer Monaco",
-      "price_range": "$120000",
-      "ratings": 4.5,
-      "category_id": 4,
-      "material_type": "Leather",
-      "size": "40mm",
-      "image_url": "https://www.tagheuer.com/on/demandware.static/-/Sites-tagheuer-master/default/dw97314041/TAG_Heuer_Monaco/CBL2182.FT6235/CBL2182.FT6235_0913.png?impolicy=cropresize&width=480&height=480"
-    },
-    {
-      "id": 23,
-      "brand_id": 5,
-      "name": "TAG Heuer Aquaracer",
-      "price_range": "$350000",
-      "ratings": 4.5,
-      "category_id": 1,
-      "material_type": "Stainless Steel",
-      "size": "36mm",
-      "image_url": "https://www.tagheuer.com/on/demandware.static/-/Sites-tagheuer-master/default/dw581c96c9/TAG_Heuer_Aquaracer/WBP2110.BA0627/WBP2110.BA0627_0913.png?impolicy=cropresize&width=480&height=480"
-    },
-    {
-      "id": 24,
-      "brand_id": 5,
-      "name": "TAG Heuer Formula 1",
-      "price_range": "$25000",
-      "ratings": 4.5,
-      "category_id": 4,
-      "material_type": "Stainless Steel",
-      "size": "38mm",
-      "image_url": "https://www.tagheuer.com/on/demandware.static/-/Sites-tagheuer-master/default/dw3e5c329d/TAG_Heuer_Formula_1/WAZ2011.BA0843/WAZ2011.BA0843_0913.png?impolicy=cropresize&width=480&height=480"
-    },
-    {
-      "id": 25,
-      "brand_id": 5,
-      "name": "TAG Heuer Autavia",
-      "price_range": "$80000",
-      "ratings": 4.5,
-      "category_id": 5,
-      "material_type": "Leather",
-      "size": "32mm",
-      "image_url": "https://www.tagheuer.com/on/demandware.static/-/Sites-tagheuer-master/default/dwb4f9cf94/TAG_Heuer_Autavia/CBE511C.FC8280/CBE511C.FC8280_0913.png?impolicy=cropresize&width=480&height=480"
-    },
-    {
       "id": 100,
       "name": "rolex"
     }
@@ -296,30 +241,6 @@
     {
       "id": 4,
       "name": "Audemars Piguet"
-    },
-    {
-      "id": 5,
-      "name": "TAG Heuer"
-    },
-    {
-      "id": 6,
-      "name": "Seiko"
-    },
-    {
-      "id": 7,
-      "name": "Citizen"
-    },
-    {
-      "id": 8,
-      "name": "Casio"
-    },
-    {
-      "id": 9,
-      "name": "Breitling"
-    },
-    {
-      "id": 10,
-      "name": "Fossil"
     }
   ],
   "categories": [
